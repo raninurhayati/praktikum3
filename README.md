@@ -36,6 +36,10 @@ int main ()
 
 ```
 
+**hasilnya**
+
+![hasil1](https://github.com/raninurhayati/praktikum3/blob/master/hasil1.PNG)
+
 ## Latihan 2: Mengurutkan Bilangan dari yang Terkecil ke yang Terbesar
 
 **Alur algoritma**
@@ -97,6 +101,10 @@ int main()
 
 ```
 
+**hasilnya**
+
+![hasil2](https://github.com/raninurhayati/praktikum3/blob/master/hasil2.PNG)
+
 ## Latihan 3: Menentukan Jenis Segitiga dari Panjang Sisi-Sisinya
 
 **Alur algoritma**
@@ -104,11 +112,6 @@ int main()
 2. Input nilai untuk variabel `cin >> a >> b >> c`
 3. Jika nilai `a` sama dengan nilai `b` dan `c` maka tampilkan segitiga sama sisi
 4. Jika nilai `a` sama dengan nilai `b` atau nilai `a` sama dengan nilai `c` maka tampilkan segitiga sama kaki
-
-**flowchart program**
-
-![flowchart1](https://github.com/raninurhayati/praktikum3/blob/master/flowchart3.jpg)
-
 5. Selain itu tampilkan segitiga sembarang
 
 **Berikut code lengkapnya**
@@ -141,3 +144,7 @@ int main() {
 }
 
 ```
+
+**hasilnya**
+
+![hasil3](https://github.com/raninurhayati/praktikum3/blob/master/hasil3.PNG)
