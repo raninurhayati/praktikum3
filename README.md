@@ -7,6 +7,10 @@
 3. Membaca input `cin >> a` lalu membandingkan `a > max` proses akan diulangi selama kondisi `i<n` benar
 4. Cetak `max`
 
+**flowchart program**
+
+![flowchart1](https://github.com/raninurhayati/praktikum3/blob/master/flowchart1.jpg)
+
 **Berikut code lengkapnya**
 ```
 #include<iostream>
@@ -48,6 +52,11 @@ int main ()
 11. jika kondisi *false* Bandingkan kembali Variabel B dengan variabel C jika B lebih kecil dari C.
 12. Jika kondisi *true* Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu B,C,A
 13. Jika kondisi *false* Maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu C,B,A
+
+**flowchart program**
+
+![flowchart1](https://github.com/raninurhayati/praktikum3/blob/master/flowchart2.jpg)
+
 
 **Berikut code lengkapnya**
 ```
@@ -95,6 +104,11 @@ int main()
 2. Input nilai untuk variabel `cin >> a >> b >> c`
 3. Jika nilai `a` sama dengan nilai `b` dan `c` maka tampilkan segitiga sama sisi
 4. Jika nilai `a` sama dengan nilai `b` atau nilai `a` sama dengan nilai `c` maka tampilkan segitiga sama kaki
+
+**flowchart program**
+
+![flowchart1](https://github.com/raninurhayati/praktikum3/blob/master/flowchart3.jpg)
+
 5. Selain itu tampilkan segitiga sembarang
 
 **Berikut code lengkapnya**
